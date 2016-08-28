@@ -1,0 +1,1 @@
+F:\Programming\C#_Opencv\WeedCropsIDSSystem\WeedCropsIDSSystem\obj\x86\Release\WeedCropsIDSSystem.csproj.ResolveComReference.cache

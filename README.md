@@ -1,0 +1,1 @@
+Wheat field weed threat assessment system based on digital image and GPS mapping.
